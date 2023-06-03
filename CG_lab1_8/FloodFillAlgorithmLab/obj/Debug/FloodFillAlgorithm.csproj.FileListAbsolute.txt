@@ -1,0 +1,20 @@
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\bin\Debug\OrderedExcitationMethodLab.exe.config
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\bin\Debug\OrderedExcitationMethodLab.exe
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\bin\Debug\OrderedExcitationMethodLab.pdb
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\obj\Debug\FloodFillAlgorithmLab.mainForm.resources
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\obj\Debug\OrderedExcitationMethodLab.Properties.Resources.resources
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\obj\Debug\FloodFillAlgorithm.csproj.GenerateResource.cache
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\obj\Debug\FloodFillAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\obj\Debug\OrderedExcitationMethodLab.exe
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\obj\Debug\OrderedExcitationMethodLab.pdb
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_upload_image\FloydSteinbergDitheringLab\obj\Debug\FloodFillAlgorithm.csproj.AssemblyReference.cache
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\bin\Debug\OrderedExcitationMethodLab.exe.config
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\bin\Debug\OrderedExcitationMethodLab.exe
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\bin\Debug\OrderedExcitationMethodLab.pdb
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\obj\Debug\FloodFillAlgorithm.csproj.AssemblyReference.cache
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\obj\Debug\FloodFillAlgorithmLab.mainForm.resources
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\obj\Debug\OrderedExcitationMethodLab.Properties.Resources.resources
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\obj\Debug\FloodFillAlgorithm.csproj.GenerateResource.cache
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\obj\Debug\FloodFillAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\obj\Debug\OrderedExcitationMethodLab.exe
+C:\Users\koles\Desktop\Компьютерная графика\CG_lab1_final — копия\FloydSteinbergDitheringLab\obj\Debug\OrderedExcitationMethodLab.pdb

@@ -1,0 +1,10 @@
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\bin\Debug\OrderedExcitationMethodLab.exe.config
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\bin\Debug\OrderedExcitationMethodLab.exe
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\bin\Debug\OrderedExcitationMethodLab.pdb
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\obj\Debug\FloydSteinbergDitheringLab.csproj.AssemblyReference.cache
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\obj\Debug\FloydSteinbergDitheringLab.mainForm.resources
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\obj\Debug\OrderedExcitationMethodLab.Properties.Resources.resources
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\obj\Debug\FloydSteinbergDitheringLab.csproj.GenerateResource.cache
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\obj\Debug\FloydSteinbergDitheringLab.csproj.CoreCompileInputs.cache
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\obj\Debug\OrderedExcitationMethodLab.exe
+D:\Компьютерная графика\1-16\FloydSteinbergDitheringLab\FloydSteinbergDitheringLab\obj\Debug\OrderedExcitationMethodLab.pdb
